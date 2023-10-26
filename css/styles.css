@@ -10947,7 +10947,8 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/linkedin-sales-solutions-0QvTyp0gH3A-unsplash.jpg");
+  background: linear-gradient(to bottom, #000 0%, rgba(255 255 255 / 15%) 100%),
+   url(../assets/img/linkedin-sales-solutions-0QvTyp0gH3A-unsplash.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
