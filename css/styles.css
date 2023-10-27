@@ -5363,6 +5363,7 @@ textarea.form-control-lg {
   position: relative;
   flex: 1 1 auto;
   padding: var(--bs-modal-padding);
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 .modal-footer {
